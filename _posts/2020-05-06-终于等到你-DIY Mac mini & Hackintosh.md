@@ -39,7 +39,7 @@ tags:								#标签
 
 幸好这个diy的SSD用的只是2263XT的无缓低端方案，也跑不满x4。
 
-![image](https://github.com/Road-tech/Road-blog-Figure/blob/main/Hackintosh-AsusH110T-QN8J-I7-8700Tes-DW1820A-OC/000.jpg?raw=true) 
+![image](https://cdn.jsdelivr.net/gh/Road-tech/Road-blog-Figure@1.0/Hackintosh-AsusH110T-QN8J-I7-8700Tes-DW1820A-OC/000.jpg?raw=true) 
 
 ## 硬件
 
@@ -98,7 +98,7 @@ tags:								#标签
 * 主板的内存槽上贴着MAC地址，Intel网卡通常是左边那个
 * Windows下用 ```ipconfig``` 或者 macOS/Linux下用 ```ifconfig```去查MAC地址
 
-![image](https://github.com/Road-tech/Road-blog-Figure/blob/main/Hackintosh-AsusH110T-QN8J-I7-8700Tes-DW1820A-OC/100.jpg?raw=true)  
+![image](https://cdn.jsdelivr.net/gh/Road-tech/Road-blog-Figure@1.0/Hackintosh-AsusH110T-QN8J-I7-8700Tes-DW1820A-OC/100.jpg?raw=true)  
 
 ## 刷入魔改BIOS
 
@@ -173,45 +173,45 @@ D大的bios引导报错，我尝试打开了XCHI-hand off，没有效果。我�
 
 ## 成品展示
 
-![image](https://github.com/Road-tech/Road-blog-Figure/blob/main/Hackintosh-AsusH110T-QN8J-I7-8700Tes-DW1820A-OC/001.jpg?raw=true)  
+![image](https://cdn.jsdelivr.net/gh/Road-tech/Road-blog-Figure@1.0/Hackintosh-AsusH110T-QN8J-I7-8700Tes-DW1820A-OC/001.jpg?raw=true)  
 全家福
-![image](https://github.com/Road-tech/Road-blog-Figure/blob/main/Hackintosh-AsusH110T-QN8J-I7-8700Tes-DW1820A-OC/002.jpg?raw=true)  
+![image](https://cdn.jsdelivr.net/gh/Road-tech/Road-blog-Figure@1.0/Hackintosh-AsusH110T-QN8J-I7-8700Tes-DW1820A-OC/002.jpg?raw=true)  
 QN8J，35w，6核12线程，1.6GHz默频
-![image](https://github.com/Road-tech/Road-blog-Figure/blob/main/Hackintosh-AsusH110T-QN8J-I7-8700Tes-DW1820A-OC/003.jpg?raw=true)  
+![image](https://cdn.jsdelivr.net/gh/Road-tech/Road-blog-Figure@1.0/Hackintosh-AsusH110T-QN8J-I7-8700Tes-DW1820A-OC/003.jpg?raw=true)  
 屏蔽+短接
-![image](https://github.com/Road-tech/Road-blog-Figure/blob/main/Hackintosh-AsusH110T-QN8J-I7-8700Tes-DW1820A-OC/004.jpg?raw=true)  
+![image](https://cdn.jsdelivr.net/gh/Road-tech/Road-blog-Figure@1.0/Hackintosh-AsusH110T-QN8J-I7-8700Tes-DW1820A-OC/004.jpg?raw=true)  
 硬件合体，不知道枭鲸知不知道他家的内存贴纸贴反了
-![image](https://github.com/Road-tech/Road-blog-Figure/blob/main/Hackintosh-AsusH110T-QN8J-I7-8700Tes-DW1820A-OC/005.jpg?raw=true)  
+![image](https://cdn.jsdelivr.net/gh/Road-tech/Road-blog-Figure@1.0/Hackintosh-AsusH110T-QN8J-I7-8700Tes-DW1820A-OC/005.jpg?raw=true)  
 请出尼米兹散热器
-![image](https://github.com/Road-tech/Road-blog-Figure/blob/main/Hackintosh-AsusH110T-QN8J-I7-8700Tes-DW1820A-OC/006.jpg?raw=true)  
+![image](https://cdn.jsdelivr.net/gh/Road-tech/Road-blog-Figure@1.0/Hackintosh-AsusH110T-QN8J-I7-8700Tes-DW1820A-OC/006.jpg?raw=true)  
 将弹簧放在风道主体，然后把纯铜散热器压上去
-![image](https://github.com/Road-tech/Road-blog-Figure/blob/main/Hackintosh-AsusH110T-QN8J-I7-8700Tes-DW1820A-OC/007.jpg?raw=true)  
+![image](https://cdn.jsdelivr.net/gh/Road-tech/Road-blog-Figure@1.0/Hackintosh-AsusH110T-QN8J-I7-8700Tes-DW1820A-OC/007.jpg?raw=true)  
 把散热背板放在主板后面，然后把风道主体压上去，最后上螺丝拧紧。
 这一步超级反人类！假象一下，弹簧并不能固定在主体上，散热器也不能，你要把它倒扣在主板上还要保证主体-弹簧-散热之间不能移位。最后你还要确保主体的螺丝孔能够对得上散热器的背板。
-![image](https://github.com/Road-tech/Road-blog-Figure/blob/main/Hackintosh-AsusH110T-QN8J-I7-8700Tes-DW1820A-OC/008.jpg?raw=true)  
+![image](https://cdn.jsdelivr.net/gh/Road-tech/Road-blog-Figure@1.0/Hackintosh-AsusH110T-QN8J-I7-8700Tes-DW1820A-OC/008.jpg?raw=true)  
 这个安装反人类到我不想装第二次！ 所以请尽量保证机子可以正常开机后再进行装机。
 **请务必注意四颗螺丝的受力尽量均匀且不会过紧，不然可能会压弯主板！**
-![image](https://github.com/Road-tech/Road-blog-Figure/blob/main/Hackintosh-AsusH110T-QN8J-I7-8700Tes-DW1820A-OC/009.jpg?raw=true)  
+![image](https://cdn.jsdelivr.net/gh/Road-tech/Road-blog-Figure@1.0/Hackintosh-AsusH110T-QN8J-I7-8700Tes-DW1820A-OC/009.jpg?raw=true)  
 装上后IO板之后就可以推进机箱了！同时别忘了接上Wi-Fi天线。
-![image](https://github.com/Road-tech/Road-blog-Figure/blob/main/Hackintosh-AsusH110T-QN8J-I7-8700Tes-DW1820A-OC/010.jpg?raw=true)  
+![image](https://cdn.jsdelivr.net/gh/Road-tech/Road-blog-Figure@1.0/Hackintosh-AsusH110T-QN8J-I7-8700Tes-DW1820A-OC/010.jpg?raw=true)  
 成功合体！推入过程不会太顺畅的，要按压一下，刚刚能推进去。
-![image](https://github.com/Road-tech/Road-blog-Figure/blob/main/Hackintosh-AsusH110T-QN8J-I7-8700Tes-DW1820A-OC/011.jpg?raw=true)  
+![image](https://cdn.jsdelivr.net/gh/Road-tech/Road-blog-Figure@1.0/Hackintosh-AsusH110T-QN8J-I7-8700Tes-DW1820A-OC/011.jpg?raw=true)  
 最后装上风扇，这里可以看到3d打印的纹路，很粗糙
-![image](https://github.com/Road-tech/Road-blog-Figure/blob/main/Hackintosh-AsusH110T-QN8J-I7-8700Tes-DW1820A-OC/012.jpg?raw=true) 
-![image](https://github.com/Road-tech/Road-blog-Figure/blob/main/Hackintosh-AsusH110T-QN8J-I7-8700Tes-DW1820A-OC/013.jpg?raw=true) 
+![image](https://cdn.jsdelivr.net/gh/Road-tech/Road-blog-Figure@1.0/Hackintosh-AsusH110T-QN8J-I7-8700Tes-DW1820A-OC/012.jpg?raw=true) 
+![image](https://cdn.jsdelivr.net/gh/Road-tech/Road-blog-Figure@1.0/Hackintosh-AsusH110T-QN8J-I7-8700Tes-DW1820A-OC/013.jpg?raw=true) 
 接下来就是重量嘉宾，大佬设计打印的网孔底盖！
-![image](https://github.com/Road-tech/Road-blog-Figure/blob/main/Hackintosh-AsusH110T-QN8J-I7-8700Tes-DW1820A-OC/014.jpg?raw=true) 
+![image](https://cdn.jsdelivr.net/gh/Road-tech/Road-blog-Figure@1.0/Hackintosh-AsusH110T-QN8J-I7-8700Tes-DW1820A-OC/014.jpg?raw=true) 
 还是很精致漂亮的
-![image](https://github.com/Road-tech/Road-blog-Figure/blob/main/Hackintosh-AsusH110T-QN8J-I7-8700Tes-DW1820A-OC/015.jpg?raw=true) 
+![image](https://cdn.jsdelivr.net/gh/Road-tech/Road-blog-Figure@1.0/Hackintosh-AsusH110T-QN8J-I7-8700Tes-DW1820A-OC/015.jpg?raw=true) 
 完美装上，严丝合缝
-![image](https://github.com/Road-tech/Road-blog-Figure/blob/main/Hackintosh-AsusH110T-QN8J-I7-8700Tes-DW1820A-OC/016.jpg?raw=true) 
+![image](https://cdn.jsdelivr.net/gh/Road-tech/Road-blog-Figure@1.0/Hackintosh-AsusH110T-QN8J-I7-8700Tes-DW1820A-OC/016.jpg?raw=true) 
 换个角度
-![image](https://github.com/Road-tech/Road-blog-Figure/blob/main/Hackintosh-AsusH110T-QN8J-I7-8700Tes-DW1820A-OC/017.jpg?raw=true) 
+![image](https://cdn.jsdelivr.net/gh/Road-tech/Road-blog-Figure@1.0/Hackintosh-AsusH110T-QN8J-I7-8700Tes-DW1820A-OC/017.jpg?raw=true) 
 装上小辣椒天线
-![image](https://github.com/Road-tech/Road-blog-Figure/blob/main/Hackintosh-AsusH110T-QN8J-I7-8700Tes-DW1820A-OC/018.jpg?raw=true) 
-![image](https://github.com/Road-tech/Road-blog-Figure/blob/main/Hackintosh-AsusH110T-QN8J-I7-8700Tes-DW1820A-OC/019.jpg?raw=true) 
+![image](https://cdn.jsdelivr.net/gh/Road-tech/Road-blog-Figure@1.0/Hackintosh-AsusH110T-QN8J-I7-8700Tes-DW1820A-OC/018.jpg?raw=true) 
+![image](https://cdn.jsdelivr.net/gh/Road-tech/Road-blog-Figure@1.0/Hackintosh-AsusH110T-QN8J-I7-8700Tes-DW1820A-OC/019.jpg?raw=true) 
 成品展示
-![image](https://github.com/Road-tech/Road-blog-Figure/blob/main/Hackintosh-AsusH110T-QN8J-I7-8700Tes-DW1820A-OC/102.PNG?raw=true) 
+![image](https://cdn.jsdelivr.net/gh/Road-tech/Road-blog-Figure@1.0/Hackintosh-AsusH110T-QN8J-I7-8700Tes-DW1820A-OC/102.PNG?raw=true) 
 
 ## 参考链接
 
