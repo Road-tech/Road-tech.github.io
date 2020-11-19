@@ -56,7 +56,7 @@ kramdown:
 
 
 # Disqus settings
-#disqus_username: hux
+disqus_username: road_tech
 
 # Netease settings
 #netease_comment: false
@@ -65,11 +65,11 @@ kramdown:
 
 # Analytics settings
 # Baidu Analytics 
-# ba_track_id: [your track id]
+ba_track_id: c278b4039baa48e8bcc37c8269b4408e
 
 # Google Analytics
-#ga_track_id: 'UA-49627206-1'            # Format: UA-xxxxxx-xx
-#ga_domain: huangxuan.me
+ga_track_id: 'UA-183478702-1'            # Format: UA-xxxxxx-xx
+ga_domain: blog.malu.tech
 
 
 
