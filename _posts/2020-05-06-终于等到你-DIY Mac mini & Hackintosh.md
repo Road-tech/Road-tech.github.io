@@ -1,5 +1,5 @@
 ---
-layout:     keynote   				    # 使用的布局（不需要改）
+layout:     post   				    # 使用的布局（不需要改）
 title:      终于等到你——DIY Mac mini & Hackintosh # 标题 
 subtitle:   Hackintosh for Asus-H110T, 8100, DW1820A, using Opencore and Support macOS Catalina #副标题
 date:       2020-05-06 				# 时间
