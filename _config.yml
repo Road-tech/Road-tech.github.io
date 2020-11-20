@@ -56,7 +56,7 @@ kramdown:
 
 
 # Disqus settings
-disqus_username: road_tech
+disqus_username: blog.malu.tech
 
 # Netease settings
 #netease_comment: false
