@@ -5,7 +5,7 @@ header-img: img/home-bg.jpg
 email: malu@road001.cn
 description: "生活日常：好物、装机、diy、黑苹果、mini主机 | 这里是 @大马路叫Road 的个人博客，与你一起发现更大的世界。"
 keyword: "马路, @大马路叫Road, Road‘s Blog, 博客, 个人网站, 好物, 装机, diy, 黑苹果, mini主机, Hackintosh, macOS"
-url: "http://blog.malu.tech"              # your host, for absolute URL
+url: "https://blog.malu.tech"              # your host, for absolute URL
 baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
 
 # Publish posts or collection documents with a future date.
