@@ -2,7 +2,6 @@
 
 我时不时会写些东西，之前大多发表在[SMZDM](https://zhiyou.smzdm.com/member/7856416321/)、[远景论坛](http://i.pcbeta.com/space-uid-4860290.html)、[GitHub](https://github.com/Road-tech)。 但是发点东西还要被审核，要么敏感，要么不合场合，东一篇西一篇也不像话。最终还是折腾出这个自己的小网站，把所有的文章都汇集在这个网站，也当是个特别的个人简历？当然以后写的文章在还是会在别的平台发的，不然没人看到，只不过内容侧重点会有点不同吧。
 
-　　
 ##### 关于我  
 * 本科 —— 通讯，毕业课题研究的是基于云计算平台[Openstack](www.openstack.org)   ，可以动态调整性能的网络安全模型。课题里我更多的专注于Openstack平台的搭建和[软件定义网络](https://en.wikipedia.org/wiki/Software-defined_networking)（SDN）的适配
 * 研究生 —— 计算机资讯，毕业课题研究的是基于区块链的DNS模型。课题里我专注于区块链网络的搭建测试、与DNS模型的初步结合和性能测试。   
@@ -20,4 +19,6 @@ BB了一大堆，只想说我很多东西都只是一知半解，但这并不影
 
 网站基于jekyll，模版借用了[黄玄大佬](https://huangxuan.me)。
 
+
 > 继续分享生活中或有趣或无聊的事。
+
